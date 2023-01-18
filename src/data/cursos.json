@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Html",
+        "description": "Aprende los fundamentos del desarrollo web desde cero y paso a paso.",
+        "price": 3200,
+        "hours": "10",
+        "image": "/img/html.png",
+        "category": "Desarrollo Web",
+        "stock": 100
+    },
+    {
+        "id": 2,
+        "name": "Css",
+        "description": "Domina CSS3 (Desde cero a master) Curso 100% Practico [Flexbox, CSS GRID, Animaciones en CSS3, BEM, Responsive Design]",
+        "price": 5500,
+        "hours": "35",
+        "image": "/img/css.png",
+        "category": "Desarrollo Web",
+        "stock": 100
+    },
+    {
+        "id": 3,
+        "name": "Bootstrap 5",
+        "description": "Aprende a crear cualquier sitio web adaptable a dispositivos móviles con Boostrap 5, el mejor framework de diseño web",
+        "price": 2000,
+        "hours": "10",
+        "image": "/img/bootstrap.png",
+        "category": "Desarrollo Web",
+        "stock": 100
+    },
+    {
+        "id": 4,
+        "name": "Curso de Photoshop",
+        "description": "En este curso aprenderás a utilizar las herramientas profesionales más destacadas del universo gráfico: Adobe Illustrator y Adobe Photoshop",
+        "price": 4234,
+        "hours": "34",
+        "image": "/img/photoshop.png",
+        "category": "Lenguajes",
+        "stock": 100
+    },
+    {
+        "id": 5,
+        "name": "Fundamentos del Diseño Gráfico",
+        "description": "En este curso conocerás los conceptos básicos del diseño: nociones centrales sobre el color, la forma, las leyes de percepción de la Gestalt y el uso de tipografía.",
+        "price": 1200,
+        "hours": "20",
+        "image": "/img/diseño.jpg",
+        "category": "Lenguajes",
+        "stock": 100
+    },
+    {
+        "id": 6,
+        "name": "Curso de Diseño UX/UI",
+        "description": "En este curso aprenderás a relacionar los conceptos iniciales de diseño ux/ui y darás un paso más en la generación de prototipos, partiendo del rediseño de una marca existente",
+        "price": 2330,
+        "hours": "23",
+        "image": "/img/ux.png",
+        "category": "Lenguajes",
+        "stock": 100
+    },
+    {
+        "id": 7,
+        "name": "Curso de Prototipado",
+        "description": "Conocerás todo sobre el mundo del prototipado para modelar y testear tu propia web o app. Aprenderás a generar una solución rápida que te permita evaluar tu producto. ",
+        "price": 2340,
+        "hours": "30",
+        "image": "/img/prototipado.jpg",
+        "category": "Lenguajes",
+        "stock": 100
+    },
+    {
+        "id": 8,
+        "name": "Ingles para marketing",
+        "description": "En este curso de inglés básico para marketing, aprenderás a desarrollar las habilidades de habla, escritura, lectura y escucha en inglés a través de recursos y actividades relacionadas al mundo laboral.",
+        "price": 2000,
+        "hours": "30",
+        "image": "/img/marketingi.jpg",
+        "category": "Otros",
+        "stock": 50
+    },
+    {
+        "id": 9,
+        "name": "Ingles para desarollo",
+        "description": "En este curso de inglés básico para desarrollo, aprenderás a desarrollar las habilidades de habla, escritura, lectura y escucha en inglés a través de recursos y actividades relacionadas al mundo laboral.",
+        "price": 3300,
+        "hours": "40",
+        "image": "/img/desarolloi.jpg",
+        "category": "Otros",
+        "stock": 50
+    },
+    {
+        "id": 10,
+        "name": "Ingles para diseño",
+        "description": "En este curso de inglés básico para diseño, aprenderás a desarrollar las habilidades de habla, escritura, lectura y escucha en inglés a través de recursos y actividades relacionadas al mundo laboral.",
+        "price": 4300,
+        "hours": "60",
+        "image": "/img/diseñoi.png",
+        "category": "Otros",
+        "stock": 50
+    }
+]
